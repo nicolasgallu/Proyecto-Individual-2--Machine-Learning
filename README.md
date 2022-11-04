@@ -9,7 +9,7 @@ del precio al que se vendian las propiedades en ese año.
 ## HABILIDADES TECNICAS
 > Analisis exploratorio de datos <br />
 
-> Prepropesamiento de datos <br />
+> preprocesamiento  de datos <br />
 
 > Creacion de distintos modelos de ML para buscar el modelo con mayor recall & acuraccy <br />
 
