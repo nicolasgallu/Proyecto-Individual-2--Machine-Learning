@@ -6,6 +6,10 @@ En este proyecto de Machine Learning se me encomendo la tarea de trabajar con un
 fue crear un modelo que lograra predecir si la propiedad en cuestion era cara o barata, respondiendo a si su precio estaba por encima o debado del promedio
 del precio al que se vendian las propiedades en ese año.
 
+## Resultado
+> recall de 0.35  <br />
+> accuracy_ de 0.80
+
 ## HABILIDADES TECNICAS
 > Analisis exploratorio de datos <br />
 
